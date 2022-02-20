@@ -1,0 +1,71 @@
+{
+  "User_data": [
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Student",
+      "salary": "1",
+      "isMarried": true,
+      "id": 1
+    },
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Student",
+      "salary": "1",
+      "isMarried": false,
+      "id": 2
+    },
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Student",
+      "salary": "2",
+      "isMarried": true,
+      "id": 3
+    },
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Student",
+      "salary": "2",
+      "isMarried": false,
+      "id": 4
+    },
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Student",
+      "salary": "2",
+      "id": 5
+    },
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Working",
+      "salary": "3",
+      "id": 6
+    },
+    {
+      "fName": "DAVID",
+      "lName": "YADAV",
+      "address": "INDRAPRASTH  APRTMENT",
+      "age": "21",
+      "dep": "Student",
+      "salary": "3",
+      "id": 7
+    }
+  ]
+}

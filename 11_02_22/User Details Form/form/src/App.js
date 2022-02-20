@@ -10,6 +10,7 @@ export default function App() {
     let {name , value , type , checked} = e.currentTarget ;
     
    value = type === "checkbox" ? checked : value ;
+   
     setFormData(
         {...formData , [name]:value }
       );
@@ -62,11 +63,11 @@ export default function App() {
 
         <div>
           <label>Married :</label>
-          <input type="checkbox" name="married " checked={formData.married} onChange={handelData}/>
+          <input type="checkbox" name="isMarried" checked={formData.isMarried} onChange={handelData}/>
         </div>
 
       </form>
-      <Tabel formData={formData}/>
+      <Tabel formData={formData} />
     </div>
   );
 }
